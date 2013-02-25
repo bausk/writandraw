@@ -1,4 +1,4 @@
-writandraw
+Writandraw
 ==========
 
-Writandraw.org code and themes
+Writandraw.org code and themes.
