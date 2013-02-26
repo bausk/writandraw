@@ -2,6 +2,7 @@
 htaccess.conf
 wordpress.conf
 wp-config.php
+*.sh
 wp-content/uploads/
 wp-content/blogs.dir/
 wp-content/upgrade/
